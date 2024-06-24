@@ -1,0 +1,5 @@
+
+w,Web:MouseEventWithoutKeyboardEquivalentCheck"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.(ÃÁ¿¥
+s	Web:S6819"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(ÃÁ¿¥
+m	Web:S6819("SUse <dialog> instead of the dialog role to ensure accessibility across all devices.( ¯Ø¹þÿÿÿÿ
+m	Web:S6819)"SUse <html> instead of the document role to ensure accessibility across all devices.(ËÀœ³ýÿÿÿÿ

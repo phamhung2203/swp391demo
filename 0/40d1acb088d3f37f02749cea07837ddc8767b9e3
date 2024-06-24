@@ -1,0 +1,7 @@
+
+l%Web:ItemTagNotWithinContainerTagCheck"<Surround this <li> item tag by a <ul> or <ol> container one.(üä¾f
+m%Web:ItemTagNotWithinContainerTagCheck"<Surround this <li> item tag by a <ul> or <ol> container one.(æéÀ‘
+w,Web:MouseEventWithoutKeyboardEquivalentCheck	"?Add a 'onKeyPress|onKeyDown|onKeyUp' attribute to this <a> tag.(ÞÂÅ„
+s	Web:S6819	"^Use <button> or <input> instead of the button role to ensure accessibility across all devices.(ÞÂÅ„
+r%Web:ItemTagNotWithinContainerTagCheck"<Surround this <li> item tag by a <ul> or <ol> container one.(Å¬À‰üÿÿÿÿ
+l%Web:ItemTagNotWithinContainerTagCheck"<Surround this <li> item tag by a <ul> or <ol> container one.(üä¾f
